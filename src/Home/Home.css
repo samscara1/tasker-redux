@@ -1,0 +1,12 @@
+.home {
+
+        text-align: center;
+        width: 375px;
+        min-height: 759px;
+        margin:auto;
+        margin-top: 100px;
+        background-color: white;
+        box-shadow: 0px 24px 32px rgba(21, 35, 56, 0.16);
+        border-radius: 5px;
+
+}

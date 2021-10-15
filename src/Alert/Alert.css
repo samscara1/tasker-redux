@@ -1,0 +1,8 @@
+.alert{
+    width: fit-content;
+    height: auto;
+    background-color: red;
+    opacity: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
